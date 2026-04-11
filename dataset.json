@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Lafayette, Louisiana with a population of over 121k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Lafayette, Louisiana, US",
+  "export_job_id": "ea5ff45c-3e0a-46a3-9e74-1131013bb2bb",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 316717,
+  "location_name": "Lafayette",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lafayette-louisiana-us-sample-316717",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/316717/beamstation_316717_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 59,
+  "sample_sha256": "988c889813178441f9508bb139a64df66529cd6789164dba70cf63f7d2542164",
+  "sample_size_bytes": 228769,
+  "total_records": 590,
+  "updated_at": "2026-04-07T10:29:19.309070+00:00"
+}
